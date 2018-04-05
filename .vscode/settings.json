@@ -1,8 +1,3 @@
 {
-    "gitflow4code.features": [
-        {
-            "name": "feature/INT-116",
-            "base": "develop"
-        }
-    ]
+    "python.pythonPath": "/usr/bin/python3"
 }
