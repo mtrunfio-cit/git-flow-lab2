@@ -1,1 +1,3 @@
-print 'Alo'
+print 'x'
+print 'Osla'
+print 'Ola'
